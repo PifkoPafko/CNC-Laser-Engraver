@@ -1,0 +1,33 @@
+C:\Users\pawel\Desktop\Potezny_projekt\Potezny_projekt\bin\Debug\Potezny_projekt.exe.config
+C:\Users\pawel\Desktop\Potezny_projekt\Potezny_projekt\bin\Debug\Potezny_projekt.exe
+C:\Users\pawel\Desktop\Potezny_projekt\Potezny_projekt\bin\Debug\Potezny_projekt.pdb
+C:\Users\pawel\Desktop\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.csprojAssemblyReference.cache
+C:\Users\pawel\Desktop\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.Properties.Resources.resources
+C:\Users\pawel\Desktop\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.csproj.GenerateResource.cache
+C:\Users\pawel\Desktop\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.exe
+C:\Users\pawel\Desktop\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.pdb
+C:\Users\pawel\Desktop\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.Obrazy.resources
+C:\Users\pawel\Desktop\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.Menu.resources
+C:\Users\pawel\Desktop\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.FormOverlay.resources
+C:\Users\Stachu\Desktop\elo\Potezny_projekt\Potezny_projekt\bin\Debug\Potezny_projekt.exe.config
+C:\Users\Stachu\Desktop\elo\Potezny_projekt\Potezny_projekt\bin\Debug\Potezny_projekt.exe
+C:\Users\Stachu\Desktop\elo\Potezny_projekt\Potezny_projekt\bin\Debug\Potezny_projekt.pdb
+C:\Users\Stachu\Desktop\elo\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.csprojAssemblyReference.cache
+C:\Users\Stachu\Desktop\elo\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.FormOverlay.resources
+C:\Users\Stachu\Desktop\elo\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.Menu.resources
+C:\Users\Stachu\Desktop\elo\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.Obrazy.resources
+C:\Users\Stachu\Desktop\elo\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.Properties.Resources.resources
+C:\Users\Stachu\Desktop\elo\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.csproj.GenerateResource.cache
+C:\Users\Stachu\Desktop\elo\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.exe
+C:\Users\Stachu\Desktop\elo\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.pdb
+C:\Users\pawel\Desktop\elo — kopia\Potezny_projekt\Potezny_projekt\bin\Debug\Potezny_projekt.exe.config
+C:\Users\pawel\Desktop\elo — kopia\Potezny_projekt\Potezny_projekt\bin\Debug\Potezny_projekt.exe
+C:\Users\pawel\Desktop\elo — kopia\Potezny_projekt\Potezny_projekt\bin\Debug\Potezny_projekt.pdb
+C:\Users\pawel\Desktop\elo — kopia\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.csprojAssemblyReference.cache
+C:\Users\pawel\Desktop\elo — kopia\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.FormOverlay.resources
+C:\Users\pawel\Desktop\elo — kopia\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.Menu.resources
+C:\Users\pawel\Desktop\elo — kopia\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.Obrazy.resources
+C:\Users\pawel\Desktop\elo — kopia\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.Properties.Resources.resources
+C:\Users\pawel\Desktop\elo — kopia\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.csproj.GenerateResource.cache
+C:\Users\pawel\Desktop\elo — kopia\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.exe
+C:\Users\pawel\Desktop\elo — kopia\Potezny_projekt\Potezny_projekt\obj\Debug\Potezny_projekt.pdb
